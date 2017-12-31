@@ -17,8 +17,6 @@ h1, h2 {
 
 
 
-
-
 .wrapper {
   width: 90%;
   margin: 1em auto;
@@ -70,7 +68,7 @@ footer {
   position: fixed;
   bottom: 10px;
   width: 97%;
-  margin: 0;
+  margin: auto;
   background-color: rgba(240,240,240,0.75);
   box-shadow: 2px 2px;
   padding: 1em;
